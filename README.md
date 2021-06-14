@@ -1,4 +1,4 @@
-# PoseEstimation
+# Pose Detection
 ![PoseNet Example](https://media.giphy.com/media/U2RJIrPzX6gKQuAYYx/giphy.gif)
 
 
